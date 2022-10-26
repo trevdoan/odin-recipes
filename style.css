@@ -11,6 +11,10 @@ body {
 .middle{
     text-align: center;
 }
+.middle.header{
+    background-color: black;
+    color: white;
+}
 
 .chicken{
     width: 800px;
